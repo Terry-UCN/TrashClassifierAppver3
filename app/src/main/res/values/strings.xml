@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrashClassifierApp</string>
+    <string name="garbage_preview">Garbage preview</string>
+    <string name="prediction_result">Prediction result</string>
+</resources>
